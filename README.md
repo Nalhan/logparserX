@@ -5,4 +5,4 @@ Decoupling the parsing code from Matlab also helps to make the log parser more p
 Compartmentalizing the parsing of different log files into different tasks let me run them in parallel in separate threads which sped up the start-to-finish parsing time dramatically over the existing Matlab parser.
 
 
-Log files omitted.
+Log files and executable file omitted.
